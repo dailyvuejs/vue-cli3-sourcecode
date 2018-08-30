@@ -10,3 +10,4 @@ learn source code for vue cli 3
 * [[Vue CLI 3] 源码系列之useTaobaoRegistry](https://segmentfault.com/a/1190000016172604)
 * [[Vue CLI 3]源码系列之 invoke](https://segmentfault.com/a/1190000016164471)
 * [[Vue CLI 3] 源码系列之init](https://segmentfault.com/a/1190000016150955)
+* [[Vue CLI 3] 如何自定义 js 的文件名](https://segmentfault.com/a/1190000016217002)
